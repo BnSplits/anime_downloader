@@ -1,0 +1,64 @@
+{
+  "mint": {
+    "1920x1080": {
+      "start": {
+        "x": 960,
+        "y": 840
+      },
+      "video-list": {
+        "x": 1750,
+        "y": 1000
+      },
+      "video": {
+        "x": 1740,
+        "y": 640
+      },
+      "video-title": {
+        "x": 960,
+        "y": 500 
+      },
+      "close-video-list": {
+        "x": 1850,
+        "y": 990
+      },
+      "start-download": {
+        "x": 960,
+        "y": 600
+      },
+      "close-finished-download": {
+        "x": 1109,
+        "y": 434
+      }
+    },
+    "1680x1050": {
+      "start": {
+        "x": 840,
+        "y": 840
+      },
+      "video-list": {
+        "x": 1500,
+        "y": 970
+      },
+      "video": {
+        "x": 1500,
+        "y": 610
+      },
+      "video-title": {
+        "x": 850,
+        "y": 490 
+      },
+      "close-video-list": {
+        "x": 1610,
+        "y": 970
+      },
+      "start-download": {
+        "x": 850,
+        "y": 590
+      },
+      "close-finished-download": {
+        "x": 988,
+        "y": 418
+      }
+    }
+  }
+}
